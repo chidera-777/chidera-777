@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## Hi there 👋
-🔭 I’m currently working on my problem solving skills.<br>👯 I’m looking to collaborate on any backend web development projects.<br>🤝 I’m looking for help with improving my knowledge on the server-side and what I'm learning currently <br>🌱 I’m currently learning Machine Learning.<br>💬 Ask me about anything in tech and I will answer.<br>
+🔭 I’m currently working on my problem solving skills.<br>👯 I’m looking to collaborate in Machine Learning projects.<br>🤝 I’m looking for help with improving my knowledge on ML/DL <br>💬 Ask me about anything in tech and I will answer.<br>
 
 
 ## 🌐 Socials:
